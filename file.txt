@@ -2,3 +2,6 @@ navya
 sahithi
 abhi
 priya
+mango
+apple
+banana
